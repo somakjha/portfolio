@@ -85,10 +85,11 @@
      width: 25rem;
 }
 
-@media (max-width: 500px) {
-    .hero-img {
-        height:28rem;
-        width: 28rem
+@media (max-width: 900px) {
+    .hero-main{
+        flex-direction: column-reverse;
+        gap: 3rem;
+        text-align: center;
     }
 }
 

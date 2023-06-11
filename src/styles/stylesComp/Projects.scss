@@ -1,0 +1,14 @@
+.projects {
+     background-color: rgb(199, 190, 190);
+     width: 100%;
+     position: relative;
+     box-sizing: border-box;
+}
+
+.project-container{
+     background: rgb(238, 235, 235);
+     display: grid;
+     gap: 5rem;
+     justify-content: center;
+     padding: 3rem 0 3rem 0;
+}
